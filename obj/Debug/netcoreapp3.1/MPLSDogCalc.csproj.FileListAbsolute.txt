@@ -1,0 +1,13 @@
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.exe
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.deps.json
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.runtimeconfig.json
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.runtimeconfig.dev.json
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.dll
+C:\Users\meiluca\source\repos\MPLSDogCalc\bin\Debug\netcoreapp3.1\MPLSDogCalc.pdb
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.csprojAssemblyReference.cache
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.AssemblyInfoInputs.cache
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.AssemblyInfo.cs
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.csproj.CoreCompileInputs.cache
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.dll
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.pdb
+C:\Users\meiluca\source\repos\MPLSDogCalc\obj\Debug\netcoreapp3.1\MPLSDogCalc.genruntimeconfig.cache
